@@ -18,10 +18,10 @@ namespace TickTack_AI_Test
     •	Asserts that the result is -1, which means a draw is detected.
     ---
     Summary:
-    You are testing the core logic of your Tic Tac Toe game:
+    Testing the core logic of your Tic Tac Toe game:
     •	The first test checks if a win is detected when the first row is filled.
     •	The second test checks if a draw is detected when the board is full and there is no winner.
-    Both tests passed, so your win/draw detection logic is working as expected!
+    Both tests passed, so win/draw detection logic is working as expected!
 
      * */
     public class UnitTest1
